@@ -13,6 +13,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+
+<h2>🛠️ My contacts:</h2> 
+<ul>
+ <li>Email: <a href="mailto:oliich23@mail.ru">oliich23@mail.ru</a></li>
+</ul>
+
+
 <!--
 **oliich23/oliich23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
