@@ -17,7 +17,7 @@
 <h2>🛠️ My contacts:</h2> 
 <ul>
  <li>Email: <a href="mailto:oliich23@mail.ru">oliich23@mail.ru</a></li>
- <li>Telegram: @oliich23</li>
+ <li>Telegram:  <a href="https://t.me/oliich23">@oliich23</a></li>
 
 </ul>
 
