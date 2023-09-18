@@ -1,6 +1,16 @@
-### Hi there 👋
+<h1>Hi there, I'm Olya 👋</h1> 
+<p>And I'm a Front-End Web Developer.</p>
 
-<h1 align="center">Hi there, I'm Olya 👋</h1> 
+
+
+<h2>🛠️ My Skills:</h2> 
+<ul>
+  <li>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 <!--
 **oliich23/oliich23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
