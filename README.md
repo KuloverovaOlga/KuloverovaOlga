@@ -18,8 +18,8 @@
 
 <h2>📱 My contacts:</h2> 
 <ul>
- <li>Email: <a href="mailto:oliich23@mail.ru">📧 oliich23@mail.ru</a></li>
- <li>Telegram:  <a href="https://t.me/oliich23">💬 @oliich23</a></li>
+ <li>Email: <a href="mailto:kuloverova.olga@mail.ru">📧 kuloverova.olga@mail.ru</a></li>
+ <li>Telegram:  <a href="https://t.me/kuloverova_olga">💬 @kuloverova_olga</a></li>
 
 </ul>
 
