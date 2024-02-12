@@ -20,7 +20,7 @@
 <ul>
  <li>Email: <a href="mailto:kuloverova.olga@mail.ru">📧 kuloverova.olga@mail.ru</a></li>
  <li>Telegram:  <a href="https://t.me/kuloverova_olga">💬 @kuloverova_olga</a></li>
- <li>Website:  <a href="http://olgakuloverova.ru/">💻 olgakuloverova.ru</a></li>
+ <li>Website:  <a href="https://kuloverovaolga.github.io/Portfolio/dist/">💻 kuloverovaolga.github.io/Portfolio/dist/</a></li>
 
 </ul>
 
